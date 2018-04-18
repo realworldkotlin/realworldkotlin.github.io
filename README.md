@@ -2,7 +2,16 @@
 
 A list of resources used to put together the [Real World Kotlin Development](https://skillsmatter.com/courses/602-real-world-kotlin-development-workshop) workshop materials.
 
-Any questions, you can easily find us on the Kotlin-lang Slack group :) :
+# course site and dates
+- Book for for dates at [Real World Kotlin Development @ SkillsMatter CodeNode London](https://skillsmatter.com/courses/602-real-world-kotlin-development-workshop) 
+
+# trainer details
+- David Denton
+    - [@daviddenton](https://github.com/daviddenton) at Github
+    - @dave at [Kotlin-Lang Slack](http://slack.kotlinlang.org/)
+- Ivan Sanchez
+    - [@s4nchez](https://github.com/s4nchez) at Github
+    - @ivan at [Kotlin-Lang Slack](http://slack.kotlinlang.org/)
 
 # functions
 - [Functions](http://kotlinlang.org/docs/reference/functions.html)
