@@ -1,5 +1,3 @@
-# Real World Kotlin Development
-
 A list of resources used to put together the [Real World Kotlin Development](https://skillsmatter.com/courses/602-real-world-kotlin-development-workshop) workshop materials.
 
 # Course site and dates
