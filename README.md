@@ -53,7 +53,7 @@ A list of resources used to put together the [Real World Kotlin Development](htt
 - [Java to Kotlin interop (annotations)](http://kotlinlang.org/docs/reference/java-to-kotlin-interop.html)
 - [(Blog) Deprecated annotation](https://nklmish.wordpress.com/2017/10/22/deprecated-in-kotlin/)
 
-# Nice apis and DSLs
+# Nice APIs and DSLs
 - [Inline functions](http://kotlinlang.org/docs/reference/inline-functions.html)
 - [(Blog) Consider inline functions for higher order functions](https://blog.kotlin-academy.com/effective-kotlin-consider-inline-modifier-for-higher-order-functions-758afcaffc11)
 - [DSLs](http://kotlinlang.org/docs/reference/type-safe-builders.html)
