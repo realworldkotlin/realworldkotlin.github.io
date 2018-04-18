@@ -1,8 +1,5 @@
 # Real World Kotlin Development
 
-- [SkillsMatter course site](https://skillsmatter.com/courses/602-real-world-kotlin-development-workshop)
-
-
 A list of resources used to put together the [Real World Kotlin Development](https://skillsmatter.com/courses/602-real-world-kotlin-development-workshop) workshop materials.
 
 Any questions, you can easily find us on the Kotlin-lang Slack group :) :
